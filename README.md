@@ -1,4 +1,4 @@
-# **AI Reel Generator**
+# **InstaSnap**
 
 **AI Reel Generator** is an AI-powered web application that enables users to create short video reels by combining uploaded images with a custom text-to-speech voiceover. It features a **Flask** backend for handling requests and file uploads, and a background worker for intensive video/audio processing.
 
@@ -60,4 +60,20 @@
    The final MP4 reel is saved to `static/reels` and becomes visible in the gallery.
 
 ---
+
+## **Version**
+
+### **v1.0 – Initial Launch**
+- Core Flask-based website built
+- Functional upload and reel generation system added
+- Basic UI created with Bootstrap
+
+### **v1.1 – Gallery Refinement**
+- Improved `gallery.html` to dynamically display completed reels
+- Enhanced styling and layout of the gallery section
+- Reel thumbnails and links made more accessible
+
+---
+
+
 
