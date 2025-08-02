@@ -75,5 +75,28 @@
 
 ---
 
+---
+
+## **Future Updates 🚀**
+
+This is just the beginning! Here are a few things we’re planning to add soon:
+
+- **Add Background Music** 🎵  
+  Right now, your reel only gets a voiceover—but soon you'll be able to add music too! Whether it’s chill beats or something upbeat, you'll have options to set the vibe for your video.
+
+- **Custom Voice Selection** 🗣️  
+  Planning to let users pick from multiple AI voices so you can match the tone of your reel perfectly.
+
+- **Drag-and-Drop Reordering** 🖱️  
+  Upload images in any order, then rearrange them however you like before the reel gets created.
+
+- **Reel Preview Before Final Save** 👀  
+  A preview option so you can check your reel before it gets finalized.
+
+- **Upload Your Own Audio** 🔊  
+  In addition to AI voice, users will be able to upload their own audio files too!
+
+If you’ve got more ideas, feel free to suggest them—this project’s growing fast and meant to be fun and creator-friendly!
+
 
 
