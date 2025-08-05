@@ -41,9 +41,10 @@ def create():
             f.write(desc)
 
         with open(os.path.join(current_upload_dir, "input.txt"), "w") as f:
+            duration_per_image = 3  # Set a 3-second duration per image
             for fl in input_files:
-                f.write(f"duration 2\nfile '{fl}'\n")
-            # Repeat last file (optional, improves duration reliability)
+                f.write(f"file '{fl}'\n")
+                f.write(f"duration {duration_per_image}\n")
             if input_files:
                 f.write(f"file '{input_files[-1]}'\n")
 
